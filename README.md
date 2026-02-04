@@ -24,6 +24,9 @@ Currently pursuing graduate studies at **San Jose State University** (Computer E
 
 ## Featured Projects
 
+### [RAG System](https://github.com/mokshith245/RAG-system) &mdash; Python
+A **Retrieval-Augmented Generation** pipeline that answers natural language questions grounded in document context. Combines vector-based document retrieval with large language model inference to produce accurate, source-backed responses -- reducing hallucination through context injection.
+
 ### [CPU Emulator](https://github.com/mokshith245/CPU) &mdash; C++
 A fully functional **16-bit CPU emulator** built from scratch, featuring a custom RISC instruction set architecture with 25+ instructions, 8 general-purpose registers, a complete ALU with overflow/carry detection, and a three-bus system (Instruction, Info, Control). Includes a **two-pass assembler** that compiles custom assembly to machine code, an interactive **step-through debugger** for inspecting register/memory state at each cycle, and memory-mapped I/O for console interaction. Ships with working assembly programs (Fibonacci generator, Hello World, countdown timer).
 
@@ -32,11 +35,6 @@ A fully functional **16-bit CPU emulator** built from scratch, featuring a custo
 ### [Campus Marketplace](https://github.com/mokshith245/Campus_Marketplace) &mdash; Java / React
 A production-grade **multi-tenant SaaS platform** enabling university students to buy and sell items within their campus community. Architected with **tenant-isolated databases** (one PostgreSQL instance per university), dynamic subdomain-based routing, and a master database for tenant orchestration. Backend runs on Spring Boot 3 with JWT auth, Redis caching, and AWS S3 for media storage. Frontend built with React 18, Redux Toolkit, and Material-UI. Integrated **Google Gemini API** for AI-powered intelligent product search. Features include real-time messaging, shopping cart/wishlist management, admin analytics dashboards, and email verification workflows.
 
-### [Serverless Student Records API](https://github.com/mokshith245/Web-Application-with-AWS-Lambda-and-DynamoDB) &mdash; Python / AWS
-A **serverless CRUD application** deployed on AWS, demonstrating cloud-native architecture patterns. Built with **AWS Lambda** for compute, **DynamoDB** for NoSQL persistence, and **API Gateway** for RESTful routing. Implements full Create, Read, Update, Delete operations with proper error handling and API design. Zero server management, auto-scaling by default.
-
-### [RAG System](https://github.com/mokshith245/RAG-system) &mdash; Python
-A **Retrieval-Augmented Generation** pipeline that answers natural language questions grounded in document context. Combines vector-based document retrieval with large language model inference to produce accurate, source-backed responses -- reducing hallucination through context injection.
 
 ---
 
