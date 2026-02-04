@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-I build things that work at every layer of the stack — from CPU emulators and distributed consensus protocols to cloud-native platforms processing millions of transactions.<br/>
+I build things that work at every layer of the stack from CPU emulators and distributed consensus protocols to cloud-native platforms processing millions of transactions.<br/>
 <b>3+ years of industry experience</b> at Tekion and Gameberry Labs, solving hard problems in <b>concurrency, data consistency, and high-throughput distributed systems</b>.<br/>
 Currently pursuing my MS in Software Engineering at <b>San Jose State University</b>.
 </p>
