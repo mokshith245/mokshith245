@@ -12,7 +12,8 @@
 
 <p align="center">
 I build things that work at every layer of the stack — from CPU emulators and distributed consensus protocols to cloud-native platforms processing millions of transactions.<br/>
-<b>3+ years of industry experience</b> at Tekion and Gameberry Labs. Currently pursuing my MS in Software Engineering at <b>San Jose State University</b>.
+<b>3+ years of industry experience</b> at Tekion and Gameberry Labs, solving hard problems in <b>concurrency, data consistency, and high-throughput distributed systems</b>.<br/>
+Currently pursuing my MS in Software Engineering at <b>San Jose State University</b>.
 </p>
 
 ---
@@ -21,8 +22,8 @@ I build things that work at every layer of the stack — from CPU emulators and 
 
 | Company | Role | Highlights |
 |---------|------|------------|
-| **Gameberry Labs** | Software Engineer | C++ game engine dev, slot machine probability systems, payment processing at **500K+ daily txns**, reduced **4M+ server calls** via caching |
-| **Tekion** | Software Engineer | Owned Schedules module end-to-end, **Apache Kafka** event system processing **50K+ events/day**, Redis caching at **95% hit rate**, consolidated **12 DB tables → 3**, source of truth for **1M+ monthly transactions** |
+| **Gameberry Labs** | Software Engineer | C++ game engine dev, slot machine probability systems, **end-to-end transactional integrity** for payment processing at **500K+ daily txns** with 99.99% accuracy, reduced **4M+ server calls** via local storage caching |
+| **Tekion** | Software Engineer | Owned Schedules module end-to-end, migrated to **event-driven architecture** with **Apache Kafka** (50K+ events/day), Redis caching at **95% hit rate** (800ms → 150ms), redesigned DB schema (**12 tables → 3**) with optimized locking & indexing, built centralized **data integrity system** as source of truth for **1M+ monthly transactions** with **99.9% reporting accuracy**, resolved critical **concurrency bugs** affecting 100K+ records |
 
 ---
 
