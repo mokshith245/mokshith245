@@ -71,7 +71,7 @@ Active contributor to established open-source projects in the Android/mobile eco
 ---
 
 <p align="center">
-  <a href="mailto:manimokshith1@gmail.com">Email</a> &bull;
-  <a href="https://www.linkedin.com/in/mokshith245">LinkedIn</a> &bull;
+  <a href="mailto:manimokshith245@gmail.com">Email</a> &bull;
+  <a href="https://www.linkedin.com/in/mani-mokshith-6a5867190/">LinkedIn</a> &bull;
   <a href="https://github.com/mokshith245">GitHub</a>
 </p>
